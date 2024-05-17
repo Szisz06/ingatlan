@@ -1,0 +1,20 @@
+.kartyak {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .kartyak .card {
+    flex: 1 1 200px;
+    background: rgb(148, 224, 235);
+    margin: 10px;
+  }
+  
+  .tehermentes-igen {
+    color: green;
+  }
+  
+  .tehermentes-nem {
+    color: red;
+  }
+  
